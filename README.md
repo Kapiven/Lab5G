@@ -15,9 +15,7 @@ El sistema presenta:
 
 ## Vista Previa de la Simulación
 
-> Reemplaza `preview.gif` con tu archivo
-
-![Vista previa](./assets/preview.gif)
+![Vista previa](./out/Video-Espacio.gif)
 
 ---
 
@@ -25,10 +23,10 @@ El sistema presenta:
 
 | Cuerpo Celeste      | Descripción | Imagen |
 |--------------------|-------------|--------|
-| ⭐ **Estrella**     | Fuente principal de luz; color amarillo brillante con halo. | ![Star](./assets/star.png) |
-| 🌍 **Planeta Rocoso** | Pequeño, con superficie sólida. Tiene una luna orbitándolo. | ![Rocky Planet](./assets/rocky.png) |
-| 🌕 **Luna**         | Órbita corta alrededor del planeta rocoso. | ![Moon](./assets/moon.png) |
-| 🪐 **Planeta Gaseoso** | Gigante con coloración suave y **anillos visibles**. | ![Gas Giant](./assets/gas_giant.png) |
+| ⭐ **Estrella**     | Fuente principal de luz; color amarillo brillante con halo. | ![Star](./out/star.png) |
+| 🌍 **Planeta Rocoso** | Pequeño, con superficie sólida. Tiene una luna orbitándolo. | ![Rocky Planet](./out/rocoso.jpg) |
+| 🌕 **Luna**         | Órbita corta alrededor del planeta rocoso. | ![Moon](./out/rocoso.jpg) |
+| 🪐 **Planeta Gaseoso** | Gigante con coloración suave y **anillos visibles**. | ![Gas Giant](./out/gaseoso.jpg) |
 
 ---
 
