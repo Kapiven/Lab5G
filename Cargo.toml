@@ -1,0 +1,9 @@
+[package]
+name = "Espacio"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+minifb = "0.26"
+rayon = "1.10"
+
